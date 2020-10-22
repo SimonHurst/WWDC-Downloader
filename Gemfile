@@ -6,7 +6,7 @@ source "https://rubygems.org"
 gem "mechanize", "~> 2.7.1"
 gem "json", "~> 1.8.0"
 gem "highline", "~> 1.6.19"
-gem "nokogiri", "~> 1.5.0"
+gem "nokogiri", "~> 1.10.8"
 
 group :development do
   #gem "shoulda", ">= 0"
