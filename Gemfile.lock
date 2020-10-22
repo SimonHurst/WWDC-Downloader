@@ -12,7 +12,7 @@ GEM
       git (>= 1.2.5)
       rake
       rdoc
-    json (1.8.0)
+    json (2.3.0)
     mechanize (2.7.1)
       domain_name (~> 0.5, >= 0.5.1)
       http-cookie (~> 1.0.0)
@@ -29,8 +29,7 @@ GEM
     ntlm-http (0.1.1)
     rake (10.0.4)
     rcov (0.9.9)
-    rdoc (4.0.1)
-      json (~> 1.4)
+    rdoc (6.2.1)
     unf (0.1.1)
       unf_ext
     unf_ext (0.0.6)
@@ -43,7 +42,7 @@ DEPENDENCIES
   bundler (~> 1.0.0)
   highline (~> 1.6.19)
   jeweler (~> 1.8.0)
-  json (~> 1.8.0)
+  json (~> 2.3.0)
   mechanize (~> 2.7.1)
   nokogiri (~> 1.5.0)
   rcov

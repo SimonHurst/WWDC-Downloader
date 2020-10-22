@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # If new versions of your installed gems are available, run `bundle update`
 
 gem "mechanize", "~> 2.7.1"
-gem "json", "~> 1.8.0"
+gem "json", "~> 2.3.0"
 gem "highline", "~> 1.6.19"
 gem "nokogiri", "~> 1.5.0"
 
